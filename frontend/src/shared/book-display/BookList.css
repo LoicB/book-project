@@ -48,3 +48,8 @@ If not, see <https://www.gnu.org/licenses/>.
   text-align: center;
   word-wrap: break-word;
 }
+
+.booklist-sorting-arrow-icons {
+  transform: scale(1.5);
+  position: absolute;
+}
